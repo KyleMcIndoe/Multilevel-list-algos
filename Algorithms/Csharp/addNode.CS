@@ -6,6 +6,5 @@ public void addNode(MultiListNode node, int nodeValue, bool isChild) {
     } else {
         node.next = current;
     }
-
-}
+} // all it does is add nodes to an existing list
 
